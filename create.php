@@ -4,6 +4,7 @@ session_start();
 // die();
 // Hello World
 // Git, c'est cool
+// modif
 
     // Si les données du formulaire ont été envoyées via la méthode "POST"
     if ( $_SERVER['REQUEST_METHOD'] == "POST" ) 
