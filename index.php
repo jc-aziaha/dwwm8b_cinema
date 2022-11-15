@@ -1,5 +1,6 @@
 <?php
 session_start();
+// index 
     
     // Etablir une connexion avec la base de données
     require __DIR__ . "/db/connection.php";
